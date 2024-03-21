@@ -3,7 +3,8 @@
 > SQL
 > MySQL
 
-![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/335778b1-8d63-48ff-b436-a76a7fd3134d) 
+![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/335778b1-8d63-48ff-b436-a76a7fd3134d) ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/ba691b3d-5843-482c-888c-2e2a9c562e10)
+
 
 # Concepts
 * [Advanced SQL](https://intranet.alxswe.com/concepts/555) 
