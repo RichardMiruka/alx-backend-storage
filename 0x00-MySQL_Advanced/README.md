@@ -1,15 +1,17 @@
 # MySQL advanced
+
 > Back-end
 > SQL
 > MySQL
 
-![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/335778b1-8d63-48ff-b436-a76a7fd3134d) ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/ba691b3d-5843-482c-888c-2e2a9c562e10)
-
+![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/335778b1-8d63-48ff-b436-a76a7fd3134d) 
 
 # Concepts
+
 * [Advanced SQL](https://intranet.alxswe.com/concepts/555) 
 
 # Resources 
+
 * [MySQL cheatsheet](https://intranet.alxswe.com/rltoken/8w9di_hk19DIMSBEV3EayQ)
 * [MySQL Performance: How To Leverage MySQL Database Indexing](https://intranet.alxswe.com/rltoken/2GJbZ48zRPA70o2YhTdH7g)
 * [Stored Procedure](https://intranet.alxswe.com/rltoken/K180X2OCzb6gzPngjn-EIg)
@@ -23,6 +25,7 @@
 * [CREATE VIEW Statement](https://intranet.alxswe.com/rltoken/FEZNlZFKZmD1ISnLINkCwQ)
 
 # Learning Objectives
+
 * How to create tables with constraints
 * How to optimize queries by adding indexes
 * What is and how to implement stored procedures and functions in MySQL
