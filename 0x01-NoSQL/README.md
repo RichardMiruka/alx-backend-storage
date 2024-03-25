@@ -28,3 +28,5 @@
 * How to query information from a NoSQL database
 * How to insert/update/delete information from a NoSQL database
 * How to use MongoDB
+
+![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/9c0b72da-5a8a-43ef-abec-ba49cc84e99f)
