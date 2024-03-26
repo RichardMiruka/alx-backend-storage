@@ -6,6 +6,7 @@
 
 ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/e89a5763-adae-47c2-ad03-97221e12832e)
 
+* Install MongoDB [Official installation guide](https://intranet.alxswe.com/rltoken/8p4x14Ddn1UxKXZ5nPt3zA)
 # Resources
 
 * [NoSQL Databases Explained](https://intranet.alxswe.com/rltoken/wweK7dOY4pf8haCqv9Iv6Q)
