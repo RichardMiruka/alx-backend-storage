@@ -27,4 +27,4 @@
 
 ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/1366d195-6b00-416c-911a-b3629cecc7ac)
 
-* [FULL REDIS COURSE - FREE] (https://www.eduonix.com/courses/Web-Development/learn-redis-from-scratch)
+* [FULL REDIS COURSE - FREE](https://www.eduonix.com/courses/Web-Development/learn-redis-from-scratch)
