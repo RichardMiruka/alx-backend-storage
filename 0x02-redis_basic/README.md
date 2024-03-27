@@ -4,6 +4,7 @@
 
 ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/c171a55a-37ba-429a-aa48-77d09abb315e)
 
+* [Redis official documentation](https://redis.io/docs/)
 # Resources
 
 * [Redis Crash Course Tutorial](https://intranet.alxswe.com/rltoken/hJVo3XwMMFFoApyX8zPXvA)
@@ -25,3 +26,5 @@
 - Redis server is stopped by default - when you are starting a container, you should start it with: *service redis-server start*
 
 ![image](https://github.com/RichardMiruka/alx-backend-storage/assets/105627752/1366d195-6b00-416c-911a-b3629cecc7ac)
+
+* [FULL REDIS COURSE - FREE] (https://www.eduonix.com/courses/Web-Development/learn-redis-from-scratch)
