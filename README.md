@@ -1,7 +1,7 @@
-# alx-backend
+# :book: ALX Backend.
+
 Server backend development using JavaScript and NodeJS.
 
-# :book: ALX Backend.
 ## :page_with_curl: Topics Covered
 1. Pagination.
 2. Caching.
