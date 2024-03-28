@@ -7,13 +7,12 @@
 # (page number 1) with a page size of 10 and result displays the content of 
 # the first page, showcasing the simplicity of the pagination functionality.
 
-def paginate(items, page_size, page_number):
-    start_index = (page_number - 1) * page_size
-    end_index = start_index + page_size
+def paginate(items, page_length, page_number):
+    start_index = (page_number - 1) * page_length
+    end_index = start_index + page_length
     return items[start_index:end_index]
 
 # Example usage
-
 # Example: a list of numbers from 1 to 100 is created
 numbers = range(1, 101)
 
