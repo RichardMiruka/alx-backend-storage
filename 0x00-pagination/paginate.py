@@ -13,6 +13,7 @@ def paginate(items, page_size, page_number):
     return items[start_index:end_index]
 
 # Example usage
+
 # Example: a list of numbers from 1 to 100 is created
 numbers = range(1, 101)
 
