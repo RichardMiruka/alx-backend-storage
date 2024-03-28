@@ -1,6 +1,6 @@
 # :book: ALX Backend.
 
-Server backend development using JavaScript and NodeJS.
+Server-side backend development using Python, JavaScript, and NodeJS.
 
 ## :page_with_curl: Topics Covered
 1. Pagination.
